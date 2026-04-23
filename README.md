@@ -24,4 +24,4 @@ TripZo is a PHP/MySQL web application designed to help users discover attraction
 
 ## Admin Login
 Email: admin@tripzo.com  
-Password: admin123
+Password: password
